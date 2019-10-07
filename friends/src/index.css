@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.add-friend {
+  margin: 20px 0;
+}
+
+.App > .navbar {
+  padding: 1rem 2.5rem;
+}
+
+.row > div > .card {
+  margin: 5px;
+}
+
+.App > form {
+  width: 40%;
+  margin: 20px auto;
+}
+
+.App > div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
